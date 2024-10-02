@@ -1,0 +1,3 @@
+FUNCTION-POOL ZGET_SYSTEM_MESSAGES.         "MESSAGE-ID ..
+
+* INCLUDE LZGET_SYSTEM_MESSAGESD...          " Local class definition
